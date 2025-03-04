@@ -11,10 +11,10 @@ class MiContenedorAPP extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Frida Sofia Apodaca Cera"),
+          title: const Text("Frida Sofia Apodaca Cera MAT:1136"),
           centerTitle: true,
           titleTextStyle:
-              const TextStyle(color: Color(0xffa3d0fb), fontSize: 25),
+              const TextStyle(color: Color(0xffa3d0fb), fontSize: 15),
           backgroundColor: const Color(0xff1a2f4e),
         ),
         body: Center(
