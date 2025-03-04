@@ -28,7 +28,7 @@ class MiContenedorAPP extends StatelessWidget {
                 height: 150,
                 decoration: BoxDecoration(
                   color: const Color(0xfffff33e),
-                  borderRadius: BorderRadius.circular(15),
+                  borderRadius: BorderRadius.circular(25),
                   border: Border.all(
                     color: const Color(0xff000000),
                     width: 1,
@@ -46,7 +46,7 @@ class MiContenedorAPP extends StatelessWidget {
                 height: 150,
                 decoration: BoxDecoration(
                   color: const Color(0xffffffff),
-                  borderRadius: BorderRadius.circular(15),
+                  borderRadius: BorderRadius.circular(25),
                   boxShadow: [
                     BoxShadow(
                       color: const Color(0xff8b8b8b).withOpacity(0.5),
